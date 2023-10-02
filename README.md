@@ -193,7 +193,7 @@ Returns the statistics of total cases, cured, active, deaths of a specific state
 
 ### API 8
 
-#### Path: `
+#### Paths: `
 
 `
 
